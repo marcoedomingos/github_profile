@@ -1,33 +1,79 @@
-<div>
-  <h1 align="center">Hi, welcome to my Github, I am <a href="https://www.linkedin.com/in/marco-domingos-239756171/"><i>Marco Domingos</i></a> 😃️</h1>
-  <p align="justify">I am a graduated software engineer, i have expirience developing mobile applications with Flutter, a little bett of native with Java or Kotlin and backend development with  PHP. I love learning, i'm currently increasing my knowllege on native </p>
-  <ul dir="auto">
-    <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm currently developing a Flutter library, just as <a href="https://pub.dev/packages/smart_calendar">this</a></li>
-    <li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on any Flutter project</li>
-    <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about  Flutter</li>
-    <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://github.com/Marcoedomingos">Github</a>, <a href="https://stackoverflow.com/users/14421430/edivaldo-marco?tab=profile">StackOverflow</a>, <a href="https://www.upwork.com/freelancers/~01031d0f18f5c0b37b">Upwork</a>, <a href="https://www.linkedin.com/in/marco-domingos-239756171/" rel="nofollow">Linkedin</a> or <a href="mailto:marcoedomingos@gmail.com" rel="nofollow">Gmail</a></li>
-</ul>
+<h1 align="left">Hey 👋! Marco Domingos from Angola here.</h1>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcoedomingos.marcoedomingos&"  />
+</div>
+
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/marcoedomingos/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/14421430/marco-domingos?tab=profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+  <a href="marcoedomingos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div><br/>
 
 <div align="center">
-  <a href="https://github.com/Marcoedomingos">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcoedomingos&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoedomingos&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=marcoedomingos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoedomingos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="Flutter" height="30" width="40" src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg">
-  <img align="center" alt="Dart" height="30" width="40" src="https://iconape.com/wp-content/files/pa/370777/svg/dart-logo-icon-png-svg.png">
-  <img align="center" alt="Php" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" width="40">
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" width="40">
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" width="40">
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" width="40">
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" width="40">
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" width="40">
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" width="40">
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" width="40">
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" width="40">
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo" width="40">
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo" width="40">
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo" width="40">
 <!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
-</div><br>
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
+  <img src="https://streak-stats.demolab.com?user=marcoedomingos&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcoedomingos/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@marcoedomingos/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcoedomingos/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@marcoedomingos/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@marcoedomingos/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@marcoedomingos/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
