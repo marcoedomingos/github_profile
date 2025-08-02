@@ -5,13 +5,13 @@
     <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm currently developing a Flutter library, just as <a href="https://pub.dev/packages/smart_calendar">this</a></li>
     <li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on any Flutter project</li>
     <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about  Flutter</li>
-    <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://github.com/Marco4763">Github</a>, <a href="https://stackoverflow.com/users/14421430/edivaldo-marco?tab=profile">StackOverflow</a>, <a href="https://www.upwork.com/freelancers/~01031d0f18f5c0b37b">Upwork</a>, <a href="https://www.linkedin.com/in/marco-domingos-239756171/" rel="nofollow">Linkedin</a> or <a href="mailto:marcoedomingos@gmail.com" rel="nofollow">Gmail</a></li>
+    <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://github.com/Marcoedomingos">Github</a>, <a href="https://stackoverflow.com/users/14421430/edivaldo-marco?tab=profile">StackOverflow</a>, <a href="https://www.upwork.com/freelancers/~01031d0f18f5c0b37b">Upwork</a>, <a href="https://www.linkedin.com/in/marco-domingos-239756171/" rel="nofollow">Linkedin</a> or <a href="mailto:marcoedomingos@gmail.com" rel="nofollow">Gmail</a></li>
 </ul>
 
 <div align="center">
-  <a href="https://github.com/Marco4763">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marco4763&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco4763&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/Marcoedomingos">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcoedomingos&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoedomingos&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
